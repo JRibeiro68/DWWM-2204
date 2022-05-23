@@ -1,0 +1,16 @@
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\bin\Debug\net5.0\exercice1.4.exe
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\bin\Debug\net5.0\exercice1.4.deps.json
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\bin\Debug\net5.0\exercice1.4.runtimeconfig.json
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\bin\Debug\net5.0\exercice1.4.runtimeconfig.dev.json
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\bin\Debug\net5.0\exercice1.4.dll
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\bin\Debug\net5.0\exercice1.4.pdb
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\obj\Debug\net5.0\exercice1.4.csproj.AssemblyReference.cache
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\obj\Debug\net5.0\exercice1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\obj\Debug\net5.0\exercice1.4.AssemblyInfoInputs.cache
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\obj\Debug\net5.0\exercice1.4.AssemblyInfo.cs
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\obj\Debug\net5.0\exercice1.4.csproj.CoreCompileInputs.cache
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\obj\Debug\net5.0\exercice1.4.dll
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\obj\Debug\net5.0\refint\exercice1.4.dll
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\obj\Debug\net5.0\exercice1.4.pdb
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\obj\Debug\net5.0\exercice1.4.genruntimeconfig.cache
+C:\Users\Jribeiro\Documents\JR_algo\exercice1.4\exercice1.4\obj\Debug\net5.0\ref\exercice1.4.dll

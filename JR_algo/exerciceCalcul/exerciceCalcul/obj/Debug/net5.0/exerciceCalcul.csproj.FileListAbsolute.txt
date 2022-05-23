@@ -1,0 +1,5 @@
+C:\Users\Jribeiro\Documents\JR_algo\exerciceCalcul\exerciceCalcul\obj\Debug\net5.0\exerciceCalcul.csproj.AssemblyReference.cache
+C:\Users\Jribeiro\Documents\JR_algo\exerciceCalcul\exerciceCalcul\obj\Debug\net5.0\exerciceCalcul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jribeiro\Documents\JR_algo\exerciceCalcul\exerciceCalcul\obj\Debug\net5.0\exerciceCalcul.AssemblyInfoInputs.cache
+C:\Users\Jribeiro\Documents\JR_algo\exerciceCalcul\exerciceCalcul\obj\Debug\net5.0\exerciceCalcul.AssemblyInfo.cs
+C:\Users\Jribeiro\Documents\JR_algo\exerciceCalcul\exerciceCalcul\obj\Debug\net5.0\exerciceCalcul.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\obj\Debug\net5.0\ExoMoyenne.csproj.AssemblyReference.cache
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\obj\Debug\net5.0\ExoMoyenne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\obj\Debug\net5.0\ExoMoyenne.AssemblyInfoInputs.cache
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\obj\Debug\net5.0\ExoMoyenne.AssemblyInfo.cs
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\obj\Debug\net5.0\ExoMoyenne.csproj.CoreCompileInputs.cache
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\bin\Debug\net5.0\ExoMoyenne.exe
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\bin\Debug\net5.0\ExoMoyenne.deps.json
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\bin\Debug\net5.0\ExoMoyenne.runtimeconfig.json
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\bin\Debug\net5.0\ExoMoyenne.runtimeconfig.dev.json
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\bin\Debug\net5.0\ExoMoyenne.dll
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\bin\Debug\net5.0\ExoMoyenne.pdb
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\obj\Debug\net5.0\ExoMoyenne.dll
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\obj\Debug\net5.0\refint\ExoMoyenne.dll
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\obj\Debug\net5.0\ExoMoyenne.pdb
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\obj\Debug\net5.0\ExoMoyenne.genruntimeconfig.cache
+C:\Users\Jribeiro\Documents\JR_algo\ExoMoyenne\ExoMoyenne\obj\Debug\net5.0\ref\ExoMoyenne.dll
