@@ -1,0 +1,15 @@
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\obj\Debug\net6.0\Exercice2.4 Tri des nombres++.csproj.AssemblyReference.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\obj\Debug\net6.0\Exercice2.4 Tri des nombres++.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\obj\Debug\net6.0\Exercice2.4 Tri des nombres++.AssemblyInfoInputs.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\obj\Debug\net6.0\Exercice2.4 Tri des nombres++.AssemblyInfo.cs
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\obj\Debug\net6.0\Exercice2.4 Tri des nombres++.csproj.CoreCompileInputs.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\bin\Debug\net6.0\Exercice2.4 Tri des nombres++.exe
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\bin\Debug\net6.0\Exercice2.4 Tri des nombres++.deps.json
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\bin\Debug\net6.0\Exercice2.4 Tri des nombres++.runtimeconfig.json
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\bin\Debug\net6.0\Exercice2.4 Tri des nombres++.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\bin\Debug\net6.0\Exercice2.4 Tri des nombres++.pdb
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\obj\Debug\net6.0\Exercice2.4 Tri des nombres++.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\obj\Debug\net6.0\refint\Exercice2.4 Tri des nombres++.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\obj\Debug\net6.0\Exercice2.4 Tri des nombres++.pdb
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\obj\Debug\net6.0\Exercice2.4 Tri des nombres++.genruntimeconfig.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice2.4 Tri des nombres++\Exercice2.4 Tri des nombres++\obj\Debug\net6.0\ref\Exercice2.4 Tri des nombres++.dll
