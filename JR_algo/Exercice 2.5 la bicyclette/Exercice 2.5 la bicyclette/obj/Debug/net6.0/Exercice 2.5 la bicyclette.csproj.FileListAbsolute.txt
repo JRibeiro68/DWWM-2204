@@ -1,0 +1,15 @@
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\bin\Debug\net6.0\Exercice 2.5 la bicyclette.exe
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\bin\Debug\net6.0\Exercice 2.5 la bicyclette.deps.json
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\bin\Debug\net6.0\Exercice 2.5 la bicyclette.runtimeconfig.json
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\bin\Debug\net6.0\Exercice 2.5 la bicyclette.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\bin\Debug\net6.0\Exercice 2.5 la bicyclette.pdb
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\obj\Debug\net6.0\Exercice 2.5 la bicyclette.csproj.AssemblyReference.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\obj\Debug\net6.0\Exercice 2.5 la bicyclette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\obj\Debug\net6.0\Exercice 2.5 la bicyclette.AssemblyInfoInputs.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\obj\Debug\net6.0\Exercice 2.5 la bicyclette.AssemblyInfo.cs
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\obj\Debug\net6.0\Exercice 2.5 la bicyclette.csproj.CoreCompileInputs.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\obj\Debug\net6.0\Exercice 2.5 la bicyclette.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\obj\Debug\net6.0\refint\Exercice 2.5 la bicyclette.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\obj\Debug\net6.0\Exercice 2.5 la bicyclette.pdb
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\obj\Debug\net6.0\Exercice 2.5 la bicyclette.genruntimeconfig.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 2.5 la bicyclette\Exercice 2.5 la bicyclette\obj\Debug\net6.0\ref\Exercice 2.5 la bicyclette.dll

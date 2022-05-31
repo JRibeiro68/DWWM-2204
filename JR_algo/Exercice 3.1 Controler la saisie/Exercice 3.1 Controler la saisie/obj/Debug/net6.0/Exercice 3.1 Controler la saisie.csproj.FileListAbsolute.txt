@@ -1,0 +1,15 @@
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\bin\Debug\net6.0\Exercice 3.1 Controler la saisie.exe
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\bin\Debug\net6.0\Exercice 3.1 Controler la saisie.deps.json
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\bin\Debug\net6.0\Exercice 3.1 Controler la saisie.runtimeconfig.json
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\bin\Debug\net6.0\Exercice 3.1 Controler la saisie.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\bin\Debug\net6.0\Exercice 3.1 Controler la saisie.pdb
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\obj\Debug\net6.0\Exercice 3.1 Controler la saisie.csproj.AssemblyReference.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\obj\Debug\net6.0\Exercice 3.1 Controler la saisie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\obj\Debug\net6.0\Exercice 3.1 Controler la saisie.AssemblyInfoInputs.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\obj\Debug\net6.0\Exercice 3.1 Controler la saisie.AssemblyInfo.cs
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\obj\Debug\net6.0\Exercice 3.1 Controler la saisie.csproj.CoreCompileInputs.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\obj\Debug\net6.0\Exercice 3.1 Controler la saisie.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\obj\Debug\net6.0\refint\Exercice 3.1 Controler la saisie.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\obj\Debug\net6.0\Exercice 3.1 Controler la saisie.pdb
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\obj\Debug\net6.0\Exercice 3.1 Controler la saisie.genruntimeconfig.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.1 Controler la saisie\Exercice 3.1 Controler la saisie\obj\Debug\net6.0\ref\Exercice 3.1 Controler la saisie.dll
