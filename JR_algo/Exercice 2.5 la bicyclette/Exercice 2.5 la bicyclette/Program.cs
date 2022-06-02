@@ -1,22 +1,22 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-bool Beau, BonEtat, ReparationImmediate, LivreDispoSalon, LivreDispoBibliotheque;
-
+string Beau, BonEtat, ReparationImmediate, LivreDispoSalon, LivreDispoBibliotheque;
+ 
 Console.WriteLine("Fait - il beau ce matin?");
-Beau = bool.Parse(Console.ReadLine());
+Beau = (Console.ReadLine());
 
 
 
-if (Beau == true)
+if (Beau == "oui")
 {
     Console.WriteLine("La bicyclette est-elle en bon état?");
-    BonEtat = bool.Parse(Console.ReadLine());
-    if (BonEtat == false)
+    BonEtat = (Console.ReadLine());
+    if (BonEtat == "non")
     {
         Console.WriteLine("Allez chez le garagiste");
         Console.WriteLine("La réparation est - elle immédiate ?");
-        ReparationImmediate = bool.Parse(Console.ReadLine());
-        if (ReparationImmediate == false)
+        ReparationImmediate = (Console.ReadLine());
+        if (ReparationImmediate == "non")
         {
             Console.WriteLine("Allez à pied à l'étang et ceuillir des joncs");
         }
@@ -31,14 +31,14 @@ else
 
 {
     Console.WriteLine("Le livre Game of thrones est - il dans le salon ?");
-    LivreDispoSalon = bool.Parse(Console.ReadLine());
-    if (LivreDispoSalon == false)
+    LivreDispoSalon = (Console.ReadLine());
+    if (LivreDispoSalon == "non")
     {
         Console.WriteLine("Allez à la bibliothèque municipale");
         Console.WriteLine("Le livre est-il disponible à la bibliothèque?");
     }
-    LivreDispoBibliotheque = bool.Parse(Console.ReadLine());
-    if (LivreDispoBibliotheque == false)
+    LivreDispoBibliotheque = (Console.ReadLine());
+    if (LivreDispoBibliotheque == "non")
     {
         Console.WriteLine("Emprunter un roman policier.");
     }

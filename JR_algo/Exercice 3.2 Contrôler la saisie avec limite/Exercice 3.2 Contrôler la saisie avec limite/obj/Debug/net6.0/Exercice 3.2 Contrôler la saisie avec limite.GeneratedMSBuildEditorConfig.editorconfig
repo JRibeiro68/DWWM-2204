@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Exercice_3._2_Contrôler_la_saisie_avec_limite
+build_property.ProjectDir = C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.2 Contrôler la saisie avec limite\Exercice 3.2 Contrôler la saisie avec limite\
