@@ -1,0 +1,15 @@
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\bin\Debug\net6.0\Exercice 4.4 Tri d'un tableau.exe
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\bin\Debug\net6.0\Exercice 4.4 Tri d'un tableau.deps.json
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\bin\Debug\net6.0\Exercice 4.4 Tri d'un tableau.runtimeconfig.json
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\bin\Debug\net6.0\Exercice 4.4 Tri d'un tableau.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\bin\Debug\net6.0\Exercice 4.4 Tri d'un tableau.pdb
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\obj\Debug\net6.0\Exercice 4.4 Tri d'un tableau.csproj.AssemblyReference.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\obj\Debug\net6.0\Exercice 4.4 Tri d'un tableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\obj\Debug\net6.0\Exercice 4.4 Tri d'un tableau.AssemblyInfoInputs.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\obj\Debug\net6.0\Exercice 4.4 Tri d'un tableau.AssemblyInfo.cs
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\obj\Debug\net6.0\Exercice 4.4 Tri d'un tableau.csproj.CoreCompileInputs.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\obj\Debug\net6.0\Exercice 4.4 Tri d'un tableau.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\obj\Debug\net6.0\refint\Exercice 4.4 Tri d'un tableau.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\obj\Debug\net6.0\Exercice 4.4 Tri d'un tableau.pdb
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\obj\Debug\net6.0\Exercice 4.4 Tri d'un tableau.genruntimeconfig.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 4.4 Tri d'un tableau\Exercice 4.4 Tri d'un tableau\obj\Debug\net6.0\ref\Exercice 4.4 Tri d'un tableau.dll
