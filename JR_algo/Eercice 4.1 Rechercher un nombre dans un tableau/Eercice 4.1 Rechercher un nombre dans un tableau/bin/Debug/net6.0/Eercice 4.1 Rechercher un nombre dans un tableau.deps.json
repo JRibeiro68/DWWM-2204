@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Eercice 4.1 Rechercher un nombre dans un tableau/1.0.0": {
+        "runtime": {
+          "Eercice 4.1 Rechercher un nombre dans un tableau.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eercice 4.1 Rechercher un nombre dans un tableau/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
