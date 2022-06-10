@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercice 3.5 Nombre premier/1.0.0": {
+        "runtime": {
+          "Exercice 3.5 Nombre premier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercice 3.5 Nombre premier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

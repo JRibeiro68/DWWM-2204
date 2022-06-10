@@ -1,0 +1,15 @@
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\bin\Debug\net6.0\Exercice 3.5 Nombre premier.exe
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\bin\Debug\net6.0\Exercice 3.5 Nombre premier.deps.json
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\bin\Debug\net6.0\Exercice 3.5 Nombre premier.runtimeconfig.json
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\bin\Debug\net6.0\Exercice 3.5 Nombre premier.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\bin\Debug\net6.0\Exercice 3.5 Nombre premier.pdb
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\obj\Debug\net6.0\Exercice 3.5 Nombre premier.csproj.AssemblyReference.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\obj\Debug\net6.0\Exercice 3.5 Nombre premier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\obj\Debug\net6.0\Exercice 3.5 Nombre premier.AssemblyInfoInputs.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\obj\Debug\net6.0\Exercice 3.5 Nombre premier.AssemblyInfo.cs
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\obj\Debug\net6.0\Exercice 3.5 Nombre premier.csproj.CoreCompileInputs.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\obj\Debug\net6.0\Exercice 3.5 Nombre premier.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\obj\Debug\net6.0\refint\Exercice 3.5 Nombre premier.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\obj\Debug\net6.0\Exercice 3.5 Nombre premier.pdb
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\obj\Debug\net6.0\Exercice 3.5 Nombre premier.genruntimeconfig.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\Exercice 3.5 Nombre premier\Exercice 3.5 Nombre premier\obj\Debug\net6.0\ref\Exercice 3.5 Nombre premier.dll
