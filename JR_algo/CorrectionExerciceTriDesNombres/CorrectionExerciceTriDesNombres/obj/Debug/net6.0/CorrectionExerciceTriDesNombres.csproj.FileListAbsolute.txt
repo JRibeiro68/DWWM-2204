@@ -1,0 +1,15 @@
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\obj\Debug\net6.0\CorrectionExerciceTriDesNombres.csproj.AssemblyReference.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\obj\Debug\net6.0\CorrectionExerciceTriDesNombres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\obj\Debug\net6.0\CorrectionExerciceTriDesNombres.AssemblyInfoInputs.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\obj\Debug\net6.0\CorrectionExerciceTriDesNombres.AssemblyInfo.cs
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\obj\Debug\net6.0\CorrectionExerciceTriDesNombres.csproj.CoreCompileInputs.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\bin\Debug\net6.0\CorrectionExerciceTriDesNombres.exe
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\bin\Debug\net6.0\CorrectionExerciceTriDesNombres.deps.json
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\bin\Debug\net6.0\CorrectionExerciceTriDesNombres.runtimeconfig.json
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\bin\Debug\net6.0\CorrectionExerciceTriDesNombres.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\bin\Debug\net6.0\CorrectionExerciceTriDesNombres.pdb
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\obj\Debug\net6.0\CorrectionExerciceTriDesNombres.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\obj\Debug\net6.0\refint\CorrectionExerciceTriDesNombres.dll
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\obj\Debug\net6.0\CorrectionExerciceTriDesNombres.pdb
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\obj\Debug\net6.0\CorrectionExerciceTriDesNombres.genruntimeconfig.cache
+C:\Users\Jribeiro\Documents\GitHub\DWWM-2204\JR_algo\CorrectionExerciceTriDesNombres\CorrectionExerciceTriDesNombres\obj\Debug\net6.0\ref\CorrectionExerciceTriDesNombres.dll
