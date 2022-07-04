@@ -3,12 +3,12 @@ echo "Exercice 3.a : " . PHP_EOL;
 echo "Créer une fonction « getMC2() ».Cette fonction doit retourner Le nom de l’inventeur de la formule « E = MC² ».. " . PHP_EOL;
 echo "". PHP_EOL;
 
-function getMC2 () 
+function getMC2() 
 {
     return "Einstein";
 }
-echo getMC2();
-
+echo getMC2() . PHP_EOL;
+echo "". PHP_EOL;
 
 echo "Exercice 3.b : " . PHP_EOL;
 echo "Créer une fonction « getUserName() » qui accepte deux arguments (prénom et nom) de type string. 
@@ -54,13 +54,12 @@ Cette fonction doit réutiliser les fonctions
 - « getMC2() » pour obtenir le nom de l'inventeur de la formule E = MC²" . PHP_EOL;
 echo "". PHP_EOL;
 
-
-function askUser (string $name, $firstname, $formule): string
+function askUser (string $firstName, string $name): string
 {
-return 'Bonjour ' . getFullName($firstname, $name) . ', connaissez- vous ' . getMC2($formule);
+return 'Bonjour ' . getFullName($firstName, $name) . ', connaissez- vous ' . getMC2() . ' ? ';
 }
 
-$firstname = readline('Veuillez saisir votre prénom :');
-$name = readline('Veuillez saisir votre nom :');
 
-echo askUser($firstName, $name, $formule) . PHP_EOL;
+echo askUser($firstName, $name) . PHP_EOL;
+
+?>
