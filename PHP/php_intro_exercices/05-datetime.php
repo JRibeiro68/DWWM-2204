@@ -25,10 +25,15 @@ Si la date est ultérieure à la date du jour, la fonction retourne la différen
 Si la date est égale à la date du jour, la fonction retourne « Aujourd'hui ».
 Si la date est antérieur à la date du jour, la fonction retourne « Évènement passé »." . PHP_EOL;
 
-function getTimeLeft() : string
+function getTimeLeft(string $interval) : string
 {
-    $dateDuJour = date("Y-m-d");
     $date = readline('Veuillez saisir une date : ');
+    $dateDuJour = date("Y-m-d");
 
+    $intvl = $dateDuJour->diff($date);
+
+    //$interval = $dateDuJour->diff($date);
+    return $interval;
 
 }
+echo getTimeLeft($interval);
