@@ -40,3 +40,5 @@ function helloNobody(string $name) : string
 
 $name = readline('Veuillez entrer votre prénom : ');
 echo helloNobody($name);
+
+?>

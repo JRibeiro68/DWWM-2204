@@ -82,3 +82,5 @@ echo "". PHP_EOL;
   $nbr2 = readline('Veuillez saisir un second nombre: ');
 
   echo 'La division de ' . $nbr1 . ' et de ' . $nbr2 . ' est égal à ' . getDiv($nbr1, $nbr2) . PHP_EOL;
+  
+  ?>
