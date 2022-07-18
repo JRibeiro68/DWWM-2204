@@ -1,20 +1,22 @@
 <?php
+/*
 
 //Exercice 5.A
 echo "Exercice 5.A" . PHP_EOL;
 echo "Créer une fonction « getToday() ». Cette fonction doit afficher et retourner la date du jour au format d/m/Y sous forme de 
 chaine de caractères (exemple : 21/10/2020)." . PHP_EOL;
 
-/*function getToday() : string
+function getToday() : string
 {
-$date = date("m/d/y");
+$date = date("d/m/y");
 echo $date . PHP_EOL;
 return $date;
+
 }
 
 $resultat = getToday();
-*/
 
+*/
 
 //Exercice 5.B
 echo "Exercice 5.B" . PHP_EOL;
@@ -25,23 +27,29 @@ Si la date est ultérieure à la date du jour, la fonction retourne la différen
 Si la date est égale à la date du jour, la fonction retourne « Aujourd'hui ».
 Si la date est antérieur à la date du jour, la fonction retourne « Évènement passé »." . PHP_EOL;
 
-function getTimeLeft() : string
+function getTimeLeft($date) : string
 {
-    $dateDuJour = date("Y-m-d");
-    $date = readline('Veuillez saisir une date : ');
-    ($interval = $dateDuJour->diff($date));
+    $date = new DateTime("Y/m/d");
+    $dateDuJour = new DateTime();
+    
+   
+    $interval = date_diff($dateDuJour,$date);
 
-    if ($date = $dateDuJour)
+    if ($date == $dateDuJour)
     {
-        return 'Aujourd\' hui';
+        return 'Aujourd\'hui';
     }
-    else if ($date < $dateDuJour)
+
+    if ($date < $dateDuJour)
     {
-        return $interval;
+       return 'Evenement passé';
+    }
+    else if ($date > $dateDuJour)
+    {
+        return $interval->format("Y-m-d");
     }
     else 
-        return $interval;
-    
-    return $interval->format('il s\'est écoulé %Y%m%d ' );
+        return 'Date invalide';
+     
 }
-echo getTimeLeft();
+echo getTimeLeft("2022-11-07");
