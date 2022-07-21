@@ -1,5 +1,5 @@
 <?php
-/*
+
 
 //Exercice 5.A
 echo "Exercice 5.A" . PHP_EOL;
@@ -16,7 +16,7 @@ return $date;
 
 $resultat = getToday();
 
-*/
+
 
 //Exercice 5.B
 echo "Exercice 5.B" . PHP_EOL;

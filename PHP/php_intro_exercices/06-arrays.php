@@ -22,7 +22,7 @@ echo firstItem($names);
 
 
 //Exercice 6.B
-/*
+
 echo "Exercice 6.B" . PHP_EOL;
 echo "Créer une fonction « lastItem() » acceptant un argument de type array. Elle devra retourner le dernier élément du tableau. Si le 
 tableau est vide, il faudra retourner null." . PHP_EOL;
@@ -43,4 +43,3 @@ function lastitem(array $names)
     
 }
 echo lastitem($names);
-*/
