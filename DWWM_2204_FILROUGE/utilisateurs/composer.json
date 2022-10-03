@@ -1,0 +1,14 @@
+{
+    "name": "jribeiro/utilisateurs",
+    "description": "Ma super application de gestion d'utilisateurs",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jribeiro",
+            "email": "jribeiro@arfp.asso.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
