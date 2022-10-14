@@ -3,11 +3,13 @@
 <form>
 
     <label>Identifiant</label>
-    <input>
+    <input type="number" name="group_id" placeholder="nombre positif">
 
     <br>
     
     <label>Nom du groupe</label>
-    <input>
+    <input type="text" name="group_name">
+
+    <button type="submit">Valider</button>
 
 </form>

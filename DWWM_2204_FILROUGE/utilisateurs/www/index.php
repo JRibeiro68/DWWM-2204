@@ -1,4 +1,5 @@
 <?php
+require '../vendor/autoload.php';
 //page : définir la page à afficher
 
 /*
@@ -14,15 +15,17 @@ $page = $_GET['page'] ?? 'home';
 switch($page)
 {
     case 'home':
-        // chargetr ici le fichier home.php
-        require '../View/home.php';
+        // charger ici le fichier home.php
+        $controller = new \Users\Controller\HomeController();
+        $controller->index();
     break;
     case 'profile':
-        // charger ici le fichier profile.php
-        require '../View/profile.php';
+        $controller = new Users\Controller\ProfileController();
+        $controller->index();
     break;
     case 'groups':
-        require '../View/groups.php';
+        $controller = new Users\Controller\GroupController();
+        $controller->index();
         break;
     default:
         echo 'Erreur 404';

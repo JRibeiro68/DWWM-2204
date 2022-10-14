@@ -1,0 +1,86 @@
+body
+{
+    background-color: rgb(11, 210, 245);
+}
+
+
+p
+{
+    text-justify: auto;
+
+}
+
+
+#image1
+{
+    height: 50px;
+    display: inline;
+    margin-left: 600px;
+}
+
+
+#logo
+{
+    float: right;
+    width: 300px;
+    height: 200px;
+    text-align: left;
+}
+
+
+h5
+{
+    font-weight: normal;
+    
+}
+
+
+li
+{
+    list-style-type: square;
+}
+
+
+table
+{
+    border-collapse: collapse;
+    width : 500px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+}
+
+
+td
+{
+    border: 3px solid black;
+    padding: 5px;
+}
+
+
+thead
+{
+    background-color: white;
+    border-bottom: 100px;
+    text-align: center;
+}
+
+
+h2
+{
+    background-color: yellow;
+    border: 2px black solid;
+    display: inline;
+}
+
+
+h1
+{
+    border: 2px black solid;
+    margin-left: 50px;
+    background-color: brown;
+    display: inline;
+
+
+}
+
