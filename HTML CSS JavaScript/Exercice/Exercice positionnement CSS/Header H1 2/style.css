@@ -1,0 +1,109 @@
+html
+{
+    font-size: 62.5%;
+
+}
+
+
+body
+{
+    font-size: 1.6em;
+    background-color:  #FFDDCC;
+
+}
+
+
+
+header
+{
+    background-color: #CCDDFF;
+    padding-top: 1em;
+    margin-top: -1em;
+    margin-left: -1em;
+    margin-right: -1em;
+    text-align: center;
+    height: 11em;
+
+}
+
+main
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+article
+{
+    border: 1px solid black;
+    background-color: white;
+    padding-left: 1em;
+    padding-right: 10em;
+    padding-top: 1em;
+    padding-bottom: 3px;
+    margin-top: 5em;
+    margin-left: 5em;
+
+
+}
+
+
+
+section
+{
+    display: flex;
+    background-color: palegreen;
+    margin-left: 10em;
+    margin-right: 10em;
+    flex-wrap: wrap;
+    height: 35em;
+
+}
+
+#menu
+{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    margin-top: 6px;
+    width: auto;
+
+}
+
+#article
+{
+    display: flex;
+    justify-content: center;
+    width: 5em;
+    width: 50%;
+    margin: 1em;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 10em;
+    height: 1em;
+}
+
+
+
+a
+{
+    border: 1px solid black;
+    border-collapse: separate;
+    border-spacing: 1em 0em;
+    background-color: white;
+    padding-left: 1em;
+    padding-right: 7em;
+
+
+}
+
+
+
+footer
+{
+    height: 13em;
+    background-color: #CCDDFF;
+}
+
+
+aside
+{
+}

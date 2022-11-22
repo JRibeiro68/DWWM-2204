@@ -1,0 +1,73 @@
+html
+{
+    font-size: 62.5%;
+
+}
+
+
+body
+{
+    font-size: 1.6em;
+    background-color:  #FFDDCC;
+}
+
+main
+{
+    display: flex;
+}
+
+
+header
+{
+    background-color: #CCDDFF;
+    padding-top: 1em;
+    margin-top: -1em;
+    margin-left: -1em;
+    margin-right: -1em;
+    text-align: center;
+    height: 11em;
+}
+
+li
+{
+    border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
+
+}
+
+.menu
+{
+    display: flex;
+    width: 20em;
+
+    flex-direction: column;
+}
+
+
+
+th
+{
+    font-size: 15px;
+    border: 1px solid black;
+    background-color: #FFFFFF;
+
+}
+
+section
+{
+    background-color: green;
+    width: 100%;
+}
+
+menu section
+{
+    display: flex;
+    justify-content: center;
+}
+
+table
+{
+    width: 100%;
+
+}
+

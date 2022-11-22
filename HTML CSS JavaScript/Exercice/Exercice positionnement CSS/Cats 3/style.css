@@ -1,0 +1,53 @@
+html
+{
+    font-size: 62.5%;
+
+}
+
+
+body
+{
+    font-size: 1.6em;
+    background-color:  rgb(235, 240, 240);
+}
+
+header 
+{
+
+    background-color:rgb(230, 75, 60);
+    height: 100px;
+    font-size: 100%;
+    padding-top: 1em;
+
+}
+
+section
+{
+
+}
+
+h1
+{
+    font-weight: normal;
+    text-align: center;
+    color:white ;
+}
+
+section
+{
+color: blue;
+}
+
+div
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+img
+{
+    height: 15em;
+    width: 10em;
+}

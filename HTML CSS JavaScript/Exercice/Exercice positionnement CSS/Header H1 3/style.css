@@ -1,0 +1,106 @@
+html
+{
+    font-size:  1.6em;
+}
+
+body
+{
+    margin: 0px;
+    padding: 0px;
+    font-size: 62.5%;
+}
+
+header
+{
+    background-color: #CCDDFF;
+    text-align: center;
+    height: 10em;
+
+}
+
+
+
+nav ul li
+{
+    width: 80%;
+    margin: 20px 0px 20px 0px;
+    padding: 20px;
+    background-color: white;
+}
+
+main
+{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    height: 44em;
+
+}
+
+
+#asideLeft
+{
+    justify-content: flex-start;
+    background-color: #FFDDCC;
+    width: 30%;
+}
+
+#asideLeft ul
+{
+    list-style: none;
+    margin-left: 1px;
+    padding: center;
+}
+
+#asideRight
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: #FFDDCC;
+    width: 25%;
+}
+
+#section
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: palegreen;
+    width: 80%;
+    align-items: stretch;
+}
+
+article
+{
+    width: 31%;
+    border: 1px solid black;
+    background-color: white;
+    height: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-top: 1em;
+
+}
+
+#article
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 1em;
+
+}
+
+h2
+{
+    margin-top: -10em;
+}
+
+footer
+{
+    text-align: center;
+    background-color: #CCDDFF;
+    padding: 100px;
+}

@@ -1,0 +1,56 @@
+html
+{
+    font-size: 62.5%;
+
+}
+
+
+body
+{
+    font-size: 1.6em;
+    background-color:  white;
+    margin : 0px;
+    padding: 0px;
+    display: grid;
+    grid-template-columns: (2, 2);
+    grid-gap: 10px;
+    grid-template-rows: 50px 1fr;
+}
+
+.logo
+{
+    background-color: #BBCCFF;
+
+
+}
+.adresse
+{
+    background-color: #BBCCFF;
+
+}   
+
+.menu
+{
+    background-color: #BBCCFF;
+
+}
+
+.article
+{
+    background-color: #BBCCFF;
+}
+
+.section
+{
+    background-color: white;
+    padding: 10px;
+
+}
+
+.footer
+{
+    background-color: #BBCCFF;
+}
+
+
+

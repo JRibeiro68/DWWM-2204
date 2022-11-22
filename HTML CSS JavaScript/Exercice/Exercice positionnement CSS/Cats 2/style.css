@@ -9,6 +9,8 @@ body
 {
     font-size: 1.6em;
     background-color:  rgb(235, 240, 240);
+
+
 }
 
 
@@ -17,10 +19,9 @@ table
     width: 800px;
     margin-left: auto;
     margin-right: auto;
-    border-collapse: collapse;
+    border-collapse: separate;
     margin-top: 2em;
-
-
+    border-spacing: 1em 0em
 }
 
 
@@ -51,6 +52,8 @@ tr
     margin-right: 0.5em;
     margin-top: 2em;
     text-align: left;
+
+
 }
 
 h2
